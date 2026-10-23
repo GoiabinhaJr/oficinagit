@@ -1,2 +1,2 @@
 # oficinagit
-aprendisado do github
+aprendizado do github
